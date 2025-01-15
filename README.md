@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a passionate **B.Tech Computer Science student**  with a strong focus on **Web Development** and a growing interest in **Artificial Intelligence (AI) and Machine Learning (ML)**. I'm constantly exploring new technologies and striving to enhance my skills every day.
 
-- 👨‍💻 **Core Skills**: C++, Web Development (HTML, CSS, JavaScript, etc.).
+- 👨‍💻 **Core Skills**: C,C++, Web Development (HTML, CSS, JavaScript, etc.).
 - 🎓 **Future Goals**: To master **AI/ML** concepts and develop impactful projects.
 ---
 
