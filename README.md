@@ -88,8 +88,7 @@ I'm a **Computer Science Engineering** student at KIIT University with a passion
 
 I'm always open to collaborating on interesting projects and innovative ideas. Feel free to reach out!
 
-📧 **Email:** sadiqofficial2024@gmail.com  
-📱 **Phone:** +91 6003386403  
+📧 **Email:** sadiqofficial2024@gmail.com    
 💼 **LinkedIn:** [Sadiq Irfan Alam](https://linkedin.com/in/sadiq-irfan-alam206404259)
 
 ---
