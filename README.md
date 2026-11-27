@@ -1,101 +1,120 @@
-# Hi there, I'm Sadiq Irfan Alam 👋
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiq-irfan-alam-206404259/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wolfcoder786)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadiqofficial2024@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=210&section=header&text=Sadiq%20Irfan%20Alam&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Data%20%26%20ML%20Enthusiast&descSize=17&descAlignY=57" width="100%" alt="Sadiq Irfan Alam, Full-Stack Developer, Data and ML Enthusiast" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadiq-irfan-alam206404259)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wolfcoder786)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sadiqofficial2024@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=wolfcoder786&color=0ea5e9&style=flat-square&label=Profile+Views)
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm a **Final Year CSE** student at KIIT University with a passion for building full-stack web applications.
-- 💼 Former Web Development Intern at **Indian Oil Corporation Ltd**
-- 🎓 Pursuing B.Tech in CSE (2023-2027)
-- 📍 Based in Bhubaneswar, India
+## 👋 About Me
 
-## 💻 Tech Stack
+I am a **Computer Science Engineering** undergraduate at **KIIT University** (2023 – 2027), based in Bhubaneswar, with an interest in **full-stack development**, **Machine Learning** and **Cybersecurity**. I have interned as a Web Developer at **Indian Oil Corporation Ltd** and am currently engaged in  on **Machine Learning and Cybersecurity**.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+---
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🛠️ Tech Stack
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+<div align="center">
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
 
-### Data Science & Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,cpp,c" alt="Python, JavaScript, C++, C" />
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Web Development**
 
-## 🏆 Featured Projects
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap,tailwind" alt="React, Node.js, Express, HTML, CSS, Bootstrap, Tailwind CSS" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" alt="MongoDB, MySQL, Git, GitHub, VS Code" />
+
+**Data Science & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
+
+**Core Concepts**
+
+`DBMS` · `Object-Oriented Programming` · `Computer Networks` · `RESTful APIs`
+
+</div>
+
+---
+
+## 💼 Experience
+
+### Web Development Intern · Indian Oil Corporation Ltd
+`May 2025 – June 2025` · Guwahati, Assam
+
+- Built a MERN application for **Behavior-Based Safety (BBS) Observation Forms**
+- Implemented **secure role-based access control** for admins and users
+- Developed dynamic form submission and tracking for safety violations, backed by MongoDB
+- Added **automated PDF generation** and printing to streamline reporting
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔐 Behavioral System Registration Platform
-**MERN Stack Web Application for Indian Oil Corporation Ltd**
-- Developed a comprehensive BBS Observation Forms application with role-based access control
-- Implemented dynamic form submission and tracking system for safety violations
-- Integrated automated PDF generation for streamlined reporting
-- **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Bootstrap, RESTful APIs
+> A safety observation platform developed for Indian Oil Corporation Ltd.
+
+- Role-based access for admins and users
+- Persistent storage and management of safety observation records
+
+`MongoDB` `Express.js` `React.js` `Node.js` `Bootstrap` `REST APIs`
+
+### 📧 Email Spam Detection System
+> An NLP model that classifies messages as spam or ham.
+
+- Cleaned and preprocessed text with tokenization, stopword removal and stemming
+- Compared multiple ML algorithms and used ensemble learning to optimize performance
+
+`Python` `scikit-learn` `NLTK`
 
 ### 🌾 Digital Krishi Officer
-**Agricultural Resource Platform**
-- Built responsive UI components using React.js and Tailwind CSS
-- Developed authentication system with form validation
-- Created intuitive interfaces for pesticides, machinery, study resources, and chatbot
-- **Tech Stack:** React.js, Tailwind CSS, RESTful APIs
+> A web platform focused on agricultural resources.
 
-## 💼 Professional Experience
+- Built responsive, modular UI components
+- Created login and signup pages with form validation
+- Designed pages for pesticides, machinery, study resources and a chatbot interface
 
-**Web Development Intern** @ Indian Oil Corporation Ltd  
-*May 2025 - June 2025*
-- Engineered a full-stack MERN application for safety observation tracking
-- Designed secure authentication and authorization systems
-- Optimized data management with MongoDB integration
+`React.js` `Tailwind CSS`
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfcoder786&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wolfcoder786&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfcoder786&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+<img src="https://streak-stats.demolab.com/?user=wolfcoder786&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 
 </div>
-## 🤝 Let's Connect!
-
-I'm always open to collaborating on interesting projects and innovative ideas. Feel free to reach out!
-
-📧 **Email:** sadiqofficial2024@gmail.com    
-💼 **LinkedIn:** [Sadiq Irfan Alam](https://linkedin.com/in/sadiq-irfan-alam206404259)
 
 ---
 
 <div align="center">
-  
-### 💡 “Clean code always looks like it was written by someone who cares.” — Robert C. Martin
 
-![Profile Views](https://komarev.com/ghpvc/?username=wolfcoder786&color=blueviolet&style=for-the-badge)
+## 🤝 Let's Connect
+
+I welcome opportunities to collaborate on meaningful projects and innovative ideas.<br/>
+Please feel free to connect with me on [**LinkedIn**](https://linkedin.com/in/sadiq-irfan-alam206404259) or by [**email**](mailto:sadiqofficial2024@gmail.com).
+
+<br/>
+
+*“Clean code always looks like it was written by someone who cares.”*<br/>
+<sub>— Robert C. Martin</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=100&section=footer" width="100%" alt="" />
 
 </div>
