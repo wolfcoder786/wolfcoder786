@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadiq-irfan-alam206404259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiq-irfan-alam-206404259/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wolfcoder786)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadiqofficial2024@gmail.com)
 
@@ -10,8 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering** student at KIIT University with a passion for building full-stack web applications. Actively exploring the exciting world of MERN stack development and Data Analytics enthusiast.
-
+I'm a **Final Year CSE** student at KIIT University with a passion for building full-stack web applications.
 - 💼 Former Web Development Intern at **Indian Oil Corporation Ltd**
 - 🎓 Pursuing B.Tech in CSE (2023-2027)
 - 📍 Based in Bhubaneswar, India
