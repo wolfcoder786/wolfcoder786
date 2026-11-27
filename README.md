@@ -1,6 +1,6 @@
+# Hi there, I'm Sadiq Irfan Alam 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=210&section=header&text=Sadiq%20Irfan%20Alam&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Data%20%26%20ML%20Enthusiast&descSize=17&descAlignY=57" width="100%" alt="Sadiq Irfan Alam, Full-Stack Developer, Data and ML Enthusiast" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadiq-irfan-alam206404259)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wolfcoder786)
