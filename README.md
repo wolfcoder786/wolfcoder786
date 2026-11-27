@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-I am a **Computer Science Engineering** undergraduate at **KIIT University** (2023 – 2027), based in Bhubaneswar, with an interest in **full-stack development**, **Machine Learning** and **Cybersecurity**. I have interned as a Web Developer at **Indian Oil Corporation Ltd** and am currently engaged in  on **Machine Learning and Cybersecurity**.
+I am a **Computer Science Engineering** undergraduate at **KIIT University** (2023 – 2027), based in Bhubaneswar, with an interest in **full-stack development**, **Machine Learning** and **Cybersecurity**. I have interned as a Web Developer at **Indian Oil Corporation Ltd** and am currently engaged in  **Machine Learning and Cybersecurity**.
 
 ---
 
